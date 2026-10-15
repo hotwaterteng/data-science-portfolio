@@ -19,8 +19,15 @@ Hello! I am Ip Soi Teng, a Master of Science student in Data Science (Marketing 
 - **Research Question:** Are Americans actually gaining or losing personal living space between 1987 and 2025 as new home sizes and household demographics evolve?
 - **Project Status:** Completed
 
-#### Key Findings
+#### Key Findings & Visualization
 - **Key Finding:** The derived personal living-space proxy increased from 659 sq ft/person in 1987 to a peak of 974 in 2015 (+47.8%), driven by both larger home construction and smaller average household sizes. From 2015 to 2025, the proxy contracted to 858 sq ft/person (-11.9%), primarily due to shrinking new home sizes. Overall, Americans gained net personal living space (+30.2%) compared to 1987.
+- **Key Visualization:**
+![Trends in U.S. Housing and Personal Living Space](Fig1_Main_Three_Panel_Trends.png)
+
+#### Key Insights:
+* **The 2015 Structural Peak:** U.S. personal living space per person reached a historical high of **974 sq ft/person** in 2015, driven by a peak in new-home median floor space (**2,473 sq ft**) combined with shrinking average household sizes (**2.54 persons**).
+* **Post-2015 Contraction:** Between 2015 and 2025, the personal space proxy declined by **11.9%** (down to **858 sq ft/person** in 2025), primarily due to builders constructing smaller single-family homes (**2,145 sq ft**).
+* **Long-Term Growth Trend:** Despite the recent post-2015 decline, Americans in 2025 still enjoy **30.2% more personal space per person** compared to 1987 (**659 sq ft/person**), proving that overall living space has expanded substantially over the long run.
 
 #### Project Repository Links
 - **Project Repository:** [View Data Science Project Repository](https://github.com/hotwaterteng/data-science-project)
